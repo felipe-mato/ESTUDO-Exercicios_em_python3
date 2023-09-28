@@ -4,9 +4,12 @@
 Este arquivo contém soluções para alguns exercícios de programação em Python. Cada exercício é implementado como uma função, e seu respectivo teste.
 
 ## Como executar os testes
-Para executar os testes, basta executar o arquivo exercicio_1.py. Os testes serão executados automaticamente e os resultados serão exibidos no console.
+Para executar os testes, basta instalar a biblioteca pytest, e executar o arquivo exercicio_1.py. Os testes serão executados automaticamente e os resultados serão exibidos no console.
+Execute o comando pytest -v para ver detalhes de cada teste
 
-> python exercicio_1.py
+> pip install pytest
+> pytest exercicio_1.py
+> pytest -v exercicio_1.py
 
 ## Tecnologias Utilizadas
 * Python3
