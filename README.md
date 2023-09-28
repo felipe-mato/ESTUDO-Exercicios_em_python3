@@ -7,8 +7,10 @@ Este arquivo contém soluções para alguns exercícios de programação em Pyth
 Para executar os testes, basta instalar a biblioteca pytest, e executar o arquivo exercicio_1.py. Os testes serão executados automaticamente e os resultados serão exibidos no console.
 Execute o comando pytest -v para ver detalhes de cada teste
 
-> pip install pytest
-> pytest exercicio_1.py
+> pip install pytest  
+
+> pytest exercicio_1.py  
+
 > pytest -v exercicio_1.py
 
 ## Tecnologias Utilizadas
